@@ -160,9 +160,9 @@ body{
 }
 
 .welcome {
-	line-height:18px;
+	line-height:19px;
 	font-family: haxrcorp, monospace;
-	font-size:14.29166650px;
+	font-size:22px;
 	position:absolute;
 	top:80px;
 	width:300px;
